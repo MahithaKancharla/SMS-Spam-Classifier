@@ -26,7 +26,7 @@
 
       streamlit run app.py
       
-> * Now enter the SMS in the text box to detect whether it is spam or not
+> * Now enter the SMS in the text box to predict whether it is spam or not
 
 ## Sample input and output images:  
 
