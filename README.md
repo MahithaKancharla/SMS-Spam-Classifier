@@ -21,6 +21,7 @@
       
 > * Now enter the SMS in the text box to detect whether it is spam or not
 
+### Sample input and output images:  
 
 ![spam_sample](https://github.com/MahithaKancharla/SMS-Spam-Classifier/assets/98204725/21554de5-3af1-4e5d-91d2-a6469737ed76)
 
